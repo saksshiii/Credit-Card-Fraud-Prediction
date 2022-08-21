@@ -1,4 +1,14 @@
 # Credit-Card-Fraud-Prediction
+The model we built here will use all possible factors to predict data on customers to find who are defaulters and non-defaulters next month.
+
+The goal is to find the whether the clients are able to pay their next month credit amount.
+
+Identify some potential customers for the bank who can settle their credit balance.
+
+To determine if their customers could make the credit card payments on-time. 
+
+Default is the failure to pay interest or principal on a loan or credit card payment!
+
 
 # Conclusion
 We investigated the data, checking for data unbalancing, visualizing the features and understanding the relationship between different features.
